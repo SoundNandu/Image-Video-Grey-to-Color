@@ -21,7 +21,7 @@ These photos are each 256*256 pixels and includes faces, photography, pa
 inting, animals andobjects.To help with generalization, we also performed various transformations including zooms,
 flips and shears to prevent overfitting.
 
-# Results
+
 <img width="696" alt="Screen Shot 2020-03-01 at 12 57 49 AM" src="https://user-images.githubusercontent.com/41890348/75622686-0bb6cb00-5b58-11ea-8014-d91ab629d11b.png">
 <img width="920" alt="Screen Shot 2020-03-01 at 12 57 59 AM" src="https://user-images.githubusercontent.com/41890348/75622688-0e192500-5b58-11ea-98f2-35124b917147.png">
 <img width="928" alt="Screen Shot 2020-03-01 at 12 58 18 AM" src="https://user-images.githubusercontent.com/41890348/75622689-0f4a5200-5b58-11ea-9fb9-8723e8b4a6fb.png">
