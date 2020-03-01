@@ -1,4 +1,4 @@
-# Image-Video-Grey-to-Color
+# Image/Video Grey-to-Color
 # Introduction
 In image colorization, goal is to produce a colored image given a grayscale input image. This
 problem is challenging because it is multimodal -- a single grayscale image may correspond to
